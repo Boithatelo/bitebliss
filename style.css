@@ -1,0 +1,44 @@
+body{
+  background-color: rgb(182, 182, 209);
+}
+h1{
+ color: blueviolets;
+    font-size: 70xp;
+}
+.black{
+    color: red;
+    font-weight: bold;
+    font-style: normal;
+}
+.tall{
+    color: red;
+    font-weight: bold;
+    font-style: normal;
+}
+.Handsome{
+    color: red;
+    font-weight: bold;
+    font-style: normal;
+}
+.IMDB{
+    color: red;
+    font-style: normal;
+}
+h2{
+    color: blueviolet;
+    font-style: oblique;
+}
+.frame {
+    width: 900px;
+    height: 900;
+}
+img{
+    width: 20%;
+    height: 40%;
+}
+.Effervescent{
+    font-style: italic;
+}
+.Yu-Gi-Oh{
+    font-style: italic;
+}
